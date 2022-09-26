@@ -4,7 +4,7 @@ bio:                'Software Engineer/Data Scientist'
 description:        "Little blog about myself and a few projects I'm working on!"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://umarpir.github.io" # the base hostname & protocol for your site
+url: "https://ibrahim99a.github.io" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
