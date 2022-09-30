@@ -13,16 +13,16 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:
 facebook:
-instagram:          umarpir_
-github:             umarpir
+instagram:          iali24_
+github:             ibrahim99a
 
 # personal
 location:           United Kingdom
-phone:              07432007286
-email:              umarpir99@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+phone:
+email:              ibrahimali2499@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   /images/bg4.jpg
+background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
