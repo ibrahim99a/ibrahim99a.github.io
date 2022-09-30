@@ -4,7 +4,7 @@ bio:                'Software Engineer/Data Scientist'
 description:        "Little blog about myself and a few projects I'm working on!"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ibrahim99a.github.io" # the base hostname & protocol for your site
+url: "https://umarpir.github.io" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
@@ -13,13 +13,13 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:
 facebook:
-instagram:          iali24_
-github:             ibrahim99a
+instagram:          umarpir_
+github:             umarpir
 
 # personal
 location:           United Kingdom
-phone:
-email:              ibrahimali2499@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+phone:              07432007286
+email:              umarpir99@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg4.jpg
