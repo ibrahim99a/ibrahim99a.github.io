@@ -1,6 +1,6 @@
 # Site
 title:              Ibrahim Ali
-bio:                'Software Developer /Data Scientist'
+bio:                'Software Engineer/ Data Scientist'
 description:        "Little blog about myself and a few projects I'm working on!"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
