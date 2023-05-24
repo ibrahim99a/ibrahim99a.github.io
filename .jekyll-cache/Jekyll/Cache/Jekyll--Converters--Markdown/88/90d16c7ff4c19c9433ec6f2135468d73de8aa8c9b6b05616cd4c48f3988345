@@ -1,12 +1,4 @@
----
-layout: post
-title:  "Machine learning: Forecasting Crypto Currency prices using LSTM Neural Networks (DEEP LEARNING)"
-date:   2022-03-25
-excerpt: "Dissertation (FYP) niche study - Long short-term memory Neural Network model building"
-image: "/images/Cpp.png"
----
-
-<h2>Introduction to My Final Year Project</h2>
+I"�<h2>Introduction to My Final Year Project</h2>
 <blockquote>
 High price fluctuation and unstructured trends are inherent characteristics of the Bitcoin
 market, which has grown exponentially in recent years. With this recent growth, Quantitative
@@ -35,6 +27,7 @@ window size of ‘5’ with 2 ‘stacked’ hidden layers to produce the best mo
 of 2299. This model was then deployed and forecasted future 5 days of price data, where a 5-
 day Short swing trade is deployed resulting in a +9.31% Return on Equity.</blockquote>
 
-<h3>Read My Dissertation Here!!</h3>
-    <p>Open and read my dissertation <a href="https://drive.google.com/file/d/1nnosvvqzS1DZ5btbkj6CkwhktgRf8_Kg/view?usp=sharing">here</a>. Give me some feedback in  the contact form below!</p>
 
+
+</blockquote></blockquote></blockquote>
+:ET
