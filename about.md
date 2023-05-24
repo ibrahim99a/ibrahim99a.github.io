@@ -11,7 +11,8 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/aboutme.png" | absolute_url }}" alt="" /></span>
 
-My name is Umar and I am currently studying Computer Science with Artificial Intelligence at Brunel University. Along with that I've been working on a few projects which I'll be posting in my blog along with just general things. Although I’m due to graduate next year, I consider myself a ‘forever student,’ as not only am I eager to both constantly build on my academic foundations and stay in tune with the latest software, but I am also always looking for new things to learn and get into both professionally and as general fun!
+My name is Ibrahim Ali and I am currently in my 2nd year studying Computer Science (with Artificial Intelligence) at Brunel University. I selected this course to challenge my own self by engrossing myself into a field which I have had no prior education/learning in. I had personally witnessed the incredible growth and expansion within Technology but wanted to refine and reshape my knowledge and skillset - where Computer Science felt the most natural choice in this.
+Although I’m due to graduate next year, I consider myself a ‘forever student,’ as not only am I eager to both constantly build on my academic foundations and keep up to date with the latest software but, I am also always looking for new things to learn and get into both professionally and for general fun!
 
 <br>
 
